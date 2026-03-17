@@ -1,103 +1,73 @@
-# David Hadley
-
-Computer Science student focused on data analytics, automation systems, and operational intelligence tools.
-
-I am currently transitioning from industrial maintenance and manufacturing into IT and data analytics by building real-world software projects that analyze operational data and automate decision making.
-
-My background in manufacturing environments allows me to understand how production systems actually operate, which helps me design practical analytics tools instead of purely theoretical projects.
-
----
-
-## Core Skills
-
-Python  
-Data Analysis  
-Operational Analytics  
-Process Optimization  
-Excel Data Modeling  
-Automation Tools  
-Manufacturing Systems  
-Troubleshooting & Diagnostics  
-
----
-
 ## Featured Projects
+
+### IT Support Ticketing & System Monitoring Tool
+
+A lightweight IT support system designed to simulate real-world helpdesk operations, including ticket tracking, issue categorization, and system monitoring.
+
+**Key capabilities:**
+- Ticket creation and status tracking system
+- Issue categorization and prioritization
+- Simulated system health monitoring
+- Basic logging and troubleshooting workflows
+
+**Technologies used:**
+Python  
+Streamlit / Flask  
+Pandas  
+SQLite  
+
+**What this demonstrates:**
+- IT support workflow understanding  
+- Troubleshooting and diagnostics mindset  
+- System monitoring fundamentals  
+
+
+---
+
+### Data Analyst Project – Operational Insights Dashboard
+
+A data analytics project focused on transforming raw operational data into actionable business insights through interactive dashboards and KPI tracking.
+
+**Key capabilities:**
+- Data cleaning and transformation
+- KPI tracking (output, downtime, efficiency)
+- Interactive visual dashboards
+- Trend analysis and performance insights
+
+**Technologies used:**
+Python  
+Pandas  
+Plotly  
+Excel  
+
+**What this demonstrates:**
+- Data analysis and visualization skills  
+- Business intelligence thinking  
+- Ability to turn data into decisions  
+
+
+---
 
 ### Manufacturing Operations Intelligence Dashboard
 
-AI-powered analytics dashboard designed to analyze manufacturing datasets, track operational KPIs, detect anomalies, and generate executive-level insights.
+An advanced analytics dashboard designed to monitor production performance, detect anomalies, and provide insights into operational efficiency.
 
-Key capabilities:
+**Key capabilities:**
+- KPI tracking and performance monitoring
+- Anomaly detection and root cause hints
+- Predictive failure forecasting
+- Executive-level reporting dashboard
 
-• Automated KPI health monitoring  
-• Operational trend visualization  
-• Anomaly detection for production metrics  
-• Predictive insights for operational planning  
-• Executive-style reporting dashboard
-
-Technologies used:
-
+**Technologies used:**
 Python  
 Streamlit  
 Pandas  
 Plotly  
-Excel data processing
+
+**What this demonstrates:**
+- Real-world operations analytics  
+- Predictive modeling concepts  
+- Executive-level dashboard design  
 
 Repository:  
-https://github.com/davehadleyjunior-ux/manufacturing-operations-intelligence-dashboard
-
----
-
-### Manufacturing Production Dashboard v2
-
-Production monitoring dashboard designed to track operational performance metrics such as output volume, defect rates, downtime, and shift performance.
-
-Key capabilities:
-
-• Production KPI tracking  
-• Manufacturing performance monitoring  
-• Data visualization dashboards  
-• CSV-based operational data analysis
-
-Technologies used:
-
-Python  
-Flask  
-HTML  
-CSS  
-JavaScript  
-Pandas
-
-Repository:  
-https://github.com/davehadleyjunior-ux/manufacturing-production-dashboard-v2
-
----
-
-## Current Focus
-
-Building data analytics tools that help companies understand operational performance and make better decisions using production data.
-
-Interested in opportunities involving:
-
-Data Analytics  
-Business Intelligence  
-Operations Analytics  
-IT Systems Support  
-Automation Tools
-
----
-
-## Background
-
-Before pursuing computer science, I worked in manufacturing, maintenance, and industrial operations. This experience gave me direct exposure to production systems, equipment diagnostics, and operational workflows.
-
-That real-world experience now guides the types of software tools I build.
-
----
-
-## Contact
-
-GitHub:  
 https://github.com/davehadleyjunior-ux
-or
-Dave.hadley.junior@gmail.com
