@@ -21,6 +21,7 @@ SQLite
 - Troubleshooting and diagnostics mindset  
 - System monitoring fundamentals  
 
+https://github.com/davehadleyjunior-ux/it-helpdesk-ticket-system
 
 ---
 
@@ -45,6 +46,7 @@ Excel
 - Business intelligence thinking  
 - Ability to turn data into decisions  
 
+https://github.com/davehadleyjunior-ux/ai-data-analyst-assistant
 
 ---
 
@@ -70,4 +72,5 @@ Plotly
 - Executive-level dashboard design  
 
 Repository:  
-https://github.com/davehadleyjunior-ux
+https://github.com/davehadleyjunior-ux/manufacturing-operations-intelligence-dashboard
+
